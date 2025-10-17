@@ -108,7 +108,6 @@ function getFeedHtml(){
         const likeIconClass = tweet.isLiked ? 'liked' : ''
         
         const retweetIconClass = tweet.isRetweeted ? 'retweeted' : ''
-        }
         
         let repliesHtml = ''
         
